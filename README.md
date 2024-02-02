@@ -1,30 +1,27 @@
-INTRODUCTION
+#INTRODUCTION
 
-DocOnWeb is a website which can be used by a user to contact ,complaint,(TK).with doctors from various professions (TK).
+DocOnWeb is a website which can be used by a user to contact , take appointment with doctors from various professions.
 
-the website provides a simple freindly userinterface which can be understood TK()
+the website provides a simple freindly userinterface which can be understood by any kind of user
 
-INSTRUCTIONS
+##INSTRUCTIONS
 
- Creating an account is followed by (TK) steps
-     They just have to put their email ID ,address and contact details in the boxes
-     Then click on submit. Its done
+ Creating an account is followed by following steps
+   They just have to put their email ID and contact details in the boxes
+   Then click on submit. Its done
 
   The homepage follows a simple yet unique design which can be navigated without efforts
   The main features included in the page are as follows 
-          
-     Get Started ,which will take the user to the signup/login page
-     (TK)
-
-MANAGING AND CREATING PROFILES(TK)
- (include details on how to edit / create their profiles )
+  Consulting a appointment with specialized doctors online 
+  create / edit profile etcetra
+  The login button will take the user to the signup/login page
 
 After creating an account the user can (TK)
 
-APPOINTMENT BOOKING (TK)
-APPOINTMENT MANAGEMENT(TK)
-REMINDERS AND NOTIFICATION(TK)
-PAYMENT AND INSUARANCE INFORMATION(TK)
+APPOINTMENT BOOKING
+APPOINTMENT MANAGEMENT(may add in future)
+REMINDERS AND NOTIFICATION (may add in future)
+PAYMENT AND INSUARANCE INFORMATION (may add in future)
 
 FAQ's
  
