@@ -16,7 +16,7 @@ the website provides a simple freindly userinterface which can be understood by 
   create / edit profile etcetra
   The login button will take the user to the signup/login page
 
-After creating an account the user can (TK)
+After creating an account the user can 
 
 APPOINTMENT BOOKING
 APPOINTMENT MANAGEMENT(may add in future)
