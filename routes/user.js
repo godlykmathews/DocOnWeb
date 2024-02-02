@@ -52,7 +52,7 @@ router.post('/',(req,res,next)=>{
     let image=req.files.image;
     image.mv('./public/patient-images/'+id+'.jpg',(err)=>{
       if(!err){
-        res.render('/thankyou');
+        res.render('/');
       }else{
         console.log(err);
       }
