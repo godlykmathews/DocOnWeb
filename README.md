@@ -31,7 +31,6 @@ What about now when there is no pendamic?
 
 Nowadays , even if we are not in pendamic or lockdown, our website will help people find / appoint doctors from their smart devices much easily and quicker
 
-what can a user face problems while using the website ?
 
 DocOnWeb 
 
